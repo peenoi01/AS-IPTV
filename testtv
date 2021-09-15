@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:-1,true Premier 1
+http://live2.dootvde.com/live/50001_ch3.stream.smil/playist.m3u8
+#EXTINF:-1,true Premier 2
+http://178.175.132.170:8888/02_3HD_720p/chunklist.m3u8
